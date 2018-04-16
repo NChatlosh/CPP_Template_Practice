@@ -1,5 +1,4 @@
 #pragma once
-#include <memory>
 #include "Node.h"
 
 template <class T>
